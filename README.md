@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russell612
 - 👀 I’m interested in Machine Learning and Software Development
-- 🌱 I’m currently learning Programming Paradigms in Monash University
+- 🌱 I’m currently learning Data Analytics in Monash University
 - 💞️ I’m looking to collaborate on basically anything!
 - 📫 How to reach me russellkong616@gmail.com
 
